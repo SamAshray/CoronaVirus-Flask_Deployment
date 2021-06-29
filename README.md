@@ -9,7 +9,7 @@ Dataset - https://ourworldindata.org/coronavirus/country/india
 * In your choice of Python IDE, import virtualenv and create a virtual environment in the unzipped folder.
 * One might need to import the mentioned libraries in the description.
 * It is now ready to run!
-* 
+
 One can run it as it is, which predicts data of India only.
 The CoronaPred.py file can be used to find other country's cases or cases after 29th June 2021.
 Use the code in it to change the predictor to predict other country's cases. 

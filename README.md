@@ -9,10 +9,10 @@ which gave (using score() function), Accuracy of 99.77%.
 Open the CSV/ Excel file for more information regarding the data available about countries, total cases, deaths and so on.
 You can get the latest data here - https://ourworldindata.org/coronavirus/country/india
 
-  To run the code, just download the ZIP and unzip it.
-  In your choice of Python IDE, import virtualenv and create a virtual environment in the unzipped folder.
-  One might need to import the mentioned libraries in the description.
-  It is now ready to run!
+*To run the code, just download the ZIP and unzip it.
+*In your choice of Python IDE, import virtualenv and create a virtual environment in the unzipped folder.
+*One might need to import the mentioned libraries in the description.
+*It is now ready to run!
 
 One can one run it as it is, which predicts data of India only.
 

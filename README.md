@@ -18,3 +18,5 @@ Read the comments in CoronaPred.py for more info.
 (To make a different prediction one has to run CoronaPred.py at least once and pickle the regression model.)
 
 Make necessary changes in the app.py file after pickling for proper Matlab plot creation.
+
+Webpage screenshots - https://drive.google.com/drive/folders/1slhULZF1SA_Z1N4-AcOSPJNG2lgu1OeS?usp=sharing

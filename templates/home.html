@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<h1>Covid Predictor India (June 2021)</h1>
+<form method="POST", action="{{url_for('home')}}">
+      <b> Cases after 'x' days : <input type="text", name="a", placeholder="Enter x number of days"></b>
+      <input type="submit", value="Predict">
+  </form>
+<br>
+<img src=" {{ url_for('static', filename='css/bc.jpg') }}">
+
+{% endblock %}

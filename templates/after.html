@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+    <h1>Total Cases: {{ value }}</h1>
+<body>
+    <img src=" {{ url_for('static', filename='images/graph.png') }}">
+    <br>
+    <button onclick="goBack()">Predict Another Day</button>
+
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
+</body>
+{% endblock %}

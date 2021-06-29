@@ -1,6 +1,6 @@
 # CoronaVirus-Flask_Deployment
 
-This project is a Deployed version of an eariler prediction model (Corona Predictor) using Flask Web Framework.
+This project is a Deployed version of an earlier prediction model (Corona Predictor) using Flask Web Framework.
 
 This contains data mining, data pre-processing and uses polynomial regression in sklearn library to predict the total cases 'n' days after June 29th, 2021.
 More details below and also comments in the python file. Used numpy, pandas, sklearn and matplotlib libraries. Has degree=10 in Polynomial_Regression section
